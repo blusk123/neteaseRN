@@ -21,7 +21,7 @@
 ##  开始之前
 * 确认你已经配置好了RN的开发环境
     > [官网写的很详细](https://reactnative.cn/docs/0.51/getting-started.html)
-* 项目需要网易云音乐接口。请先行安装并启动接口服务
+* 项目需要网易云音乐接口。请先行安装并启动接口服务(并修改fetch.js的api为你的ip)
     > 鸣谢[网易云音乐NodeJs版](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
 * 写demo的初衷
     > 看到[yezihaohao项目](https://github.com/yezihaohao/NeteaseCloudMusic)
