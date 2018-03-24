@@ -1,6 +1,6 @@
 import { get } from '../Utils/get'
 
-const api = 'http://111.230.17.123:3000'
+const api = 'http://yourIP:3000'
 
 //获取轮播图
 export const getBanner = () => get(api + '/banner')
