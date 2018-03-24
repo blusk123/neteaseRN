@@ -3,18 +3,18 @@ rn仿照网易云音乐的小demo
 
 ##  项目简介 -- 只写了播放功能相关的。其他一些展示页面“待某天完善”，网易云音乐功能实在太多
 * 主要页面展示
-![主要页面](app/img/main.gif)
+    > ![主要页面](app/img/main.gif)
 * 登录
-![登录](app/img/login.gif)
+    > ![登录](app/img/login.gif)
 * 一些详情
-![详情](app/img/detail.gif)
+    > ![详情](app/img/detail.gif)
 * 滚动title
-![title](app/img/title.gif)
+    > ![title](app/img/title.gif)
 * 歌曲播放
-![mc](app/img/mc.gif)
+    > ![mc](app/img/mc.gif)
 * 切换歌，歌词等
-![mcplay](app/img/mcplay.gif)
-![lyric](app/img/lyric.gif)
+    > ![mcplay](app/img/mcplay.gif)
+    > ![lyric](app/img/lyric.gif)
 
 ##  开始之前
 * 确认你已经配置好了RN的开发环境
